@@ -37,6 +37,9 @@
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons8_Ethernet_On.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -119,6 +122,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Controls\Ethernet On_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8_Ethernet_On.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

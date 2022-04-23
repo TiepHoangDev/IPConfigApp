@@ -9,6 +9,7 @@
     Title="MainWindow"
     Width="1234"
     Height="781"
+    Icon="/icons8_Ethernet_On.ico"
     mc:Ignorable="d">
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />

@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("controls/ethernet%20on_50px.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons8_ethernet_on.ico")]
 
 
